@@ -1,0 +1,9 @@
+C:\Program Files\C#\Desktop\PROGRAMARI\RoomReservation\obj\Debug\RoomReservation.csprojAssemblyReference.cache
+C:\Program Files\C#\Desktop\PROGRAMARI\RoomReservation\obj\Debug\RoomReservation.Properties.Resources.resources
+C:\Program Files\C#\Desktop\PROGRAMARI\RoomReservation\obj\Debug\RoomReservation.csproj.GenerateResource.cache
+C:\Program Files\C#\Desktop\PROGRAMARI\RoomReservation\obj\Debug\RoomReservation.csproj.CoreCompileInputs.cache
+C:\Program Files\C#\Desktop\PROGRAMARI\RoomReservation\bin\Debug\RoomReservation.exe.config
+C:\Program Files\C#\Desktop\PROGRAMARI\RoomReservation\bin\Debug\RoomReservation.exe
+C:\Program Files\C#\Desktop\PROGRAMARI\RoomReservation\bin\Debug\RoomReservation.pdb
+C:\Program Files\C#\Desktop\PROGRAMARI\RoomReservation\obj\Debug\RoomReservation.exe
+C:\Program Files\C#\Desktop\PROGRAMARI\RoomReservation\obj\Debug\RoomReservation.pdb
